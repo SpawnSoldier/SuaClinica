@@ -1,0 +1,143 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(199, 222, 241);
+
+}
+
+.meunav {
+    background-color: rgb(117, 184, 243);
+    font-size: 16px;
+}
+
+.navLogo {
+    width: 100%;
+    margin-right: 1%;
+}
+
+.imgNav {
+    width: 4%;
+}
+
+.sociais {
+    width: 30%;
+    text-align: center;
+}
+
+.insta {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.insta:hover {
+    transition: 0.5s;
+    color: #d1056b;
+}
+
+.face:hover {
+    color: #060ead;   
+    transition: 0.5s;
+}
+
+.twitter:hover{
+    color: #060ead;
+    transition: 0.5s;
+}
+
+.teste {
+    margin: 10px;
+    border-top: 1px solid black;
+    text-align: center;
+}
+
+.bem {
+    width: 100%;
+    text-align: end;
+}
+
+.titulo1 {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    font-size: 30px;
+}
+
+.containePrincipal {
+    width: 90%;
+    margin: auto;
+
+}
+
+.meucarrousel {
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px black;
+}
+
+.meucarrousel img {
+    width: 100%;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.letraCarrousel {
+    color: rgb(61, 61, 61);
+}
+
+.maisProcurados {
+    width: 100%;
+}
+
+.maisProcurados div {
+    width: 13%;
+    height: 100px;
+    margin-top: 2%;
+    border-radius: 20px;
+    background-color: rgb(117, 184, 243);
+    border: 1px solid rgb(152, 234, 248);
+    box-shadow: 0px 0px 9px 0px rgb(121, 118, 118);
+}
+
+.cardiologia {
+    float: left;
+}
+
+.exToque {
+    float: left;
+    margin-left: 16%;
+}
+
+.colonoscopia {
+    float: left;
+    margin-left: 16%;
+}
+
+.otorrino {
+    float: left;
+    margin-left: 16%;
+}
+
+.maisProcurados p {
+    text-align: center;
+    margin-top: 25%;
+    font-size: 100%;
+    color: black;
+}
+
+.maisProcurados div:hover {
+    background-color: rgb(134, 195, 248);
+    border-radius: 30px;
+    border: 1px solid rgb(55, 165, 255);
+
+    transition: 0.7s;
+}
+
+.meufooter {
+    margin-top: 15%;
+    background-color: rgb(117, 184, 243);
+    color: rgb(0, 0, 0);
+}

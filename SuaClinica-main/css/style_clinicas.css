@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    background-color: rgb(199, 222, 241);
+}
+.meunav{
+    background-color: rgb(117, 184, 243);
+    font-size: 16px;
+
+}
+
+.navLogo{
+    width: 100%;
+    margin-right: 1%;
+}
+.imgNav{
+    width: 4%; 
+}
+
+.sociais{
+    width: 30%;
+    text-align: center;
+}
+
+.insta{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.teste{
+    margin: 10px;
+    border-top: 1px solid black;
+    text-align: center;
+}
+
+.cont_principal{
+    margin: auto;
+    width: 90%;
+    margin-top: 4%;
+}
+
+.titulo2{
+    width: 50%;
+    font-size: 18px;
+    letter-spacing: 1px;
+    float: left;
+}
+
+.ecolha_regiao{
+    width: 50%;
+    float:right;
+}
+
+form select {
+    float: right;
+    outline: none;
+    border: none;
+    height: 2em;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+.divisao{
+    height: 2px;
+}
+
+.divisao2{
+    height: 13em;
+}
+
+.clinica{
+    padding: 4px;
+    border-radius: 14px;
+    background-color: rgb(233, 243, 252);
+    width: 46%;float: left;
+    align-content: center;
+    height: 9.3em;
+    margin-top: 5%;
+}
+
+.clinica2{
+    padding: 4px;
+    border-radius: 14px;
+    background-color: rgb(233, 243, 252);
+    width: 46%;
+    height: 9.3em;
+    float: right;
+    margin-top: 5%;
+}
+
+.clinica img{
+    width: 100%;
+    border-radius: 14px;
+}
+.clinica2 img{
+    width: 100%;
+    border-radius: 14px;
+}
+.imgClinica{
+    width: 40%;
+    float: left;
+}
+.descricao{
+    width: 56%;
+    float: right;
+}
+.meufooter{
+    margin-top: 20%;
+    background-color: rgb(117, 184, 243);
+    color: rgb(0, 0, 0);
+}
+
